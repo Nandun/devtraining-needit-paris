@@ -4,13 +4,27 @@
             <element>u_another_test</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-03 23:17:15</sys_created_on>
-            <sys_id>dd61087edbfc2010557fe1bb4b96194d</sys_id>
+            <sys_created_on>2020-12-04 20:02:13</sys_created_on>
+            <sys_id>9e5e9007dbb02010557fe1bb4b961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit" sys_domain="global" view="Default view">17ff3b2edbfc2010557fe1bb4b9619c5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-03 23:17:15</sys_updated_on>
+            <sys_updated_on>2020-12-04 20:02:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-04 20:02:13</sys_created_on>
+            <sys_id>565e9007dbb02010557fe1bb4b96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit" sys_domain="global" view="Default view">17ff3b2edbfc2010557fe1bb4b9619c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-04 20:02:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
